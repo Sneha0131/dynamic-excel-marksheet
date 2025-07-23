@@ -12,7 +12,7 @@ An interactive Excel-based marksheet using formulas, data validation, and condit
 
 📁 Files Included
   - `Dynamic_Student_Marksheet.xlsx`
-  - `screenshots/marksheet_preview.png`
+  - `marksheet_preview.png`
 
 🧠 Excel Functions Used
   - `SUM`, `IF`, `IFS`, `AND`
@@ -21,7 +21,7 @@ An interactive Excel-based marksheet using formulas, data validation, and condit
   - Data validation
 
 🔍 Preview
-![Preview](screenshots/marksheet_preview.png)
+![Preview](marksheet_preview.png)
 
 ---
 
